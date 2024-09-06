@@ -11,7 +11,7 @@ This resource is a standalone resource that allows you to spawn an rc car and co
 
 To use the resource, download it and put the `wolf_rcc` folder in your main resources folder.
 
-Add `start mth-rc` to your server.cfg
+Add `start wolf_rcc` to your server.cfg
 
 Then, once you're in game, use the command /rc to get started!
 
