@@ -57,6 +57,6 @@ ESX.RegisterUsableItem('cappuccino', function(source) --replace cappuccino for y
     local xPlayer = ESX.GetPlayerFromId(source)
     
     xPlayer.removeInventoryItem('rcbandito', 1) --this will remove the item after the use
-    TriggerClientEvent('mth-rc:client:SpawnRcCar', source)
+    TriggerClientEvent('wolf_rcc:client:SpawnRcCar', source)
 end)
 ```
